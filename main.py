@@ -4,7 +4,7 @@ from ultralytics import YOLO
 import pygame  # 用於播放音效
 
 # 設置影片輸入和結果輸出
-input_video_path = "C:\yolov8\999.mp4"  # 替換為你的影片路徑
+input_video_path = "C:\yolov8\text.mp4"  # 替換為你的影片路徑
 output_video_path = "C:/8882.mp4"  # 儲存結果的影片路徑
 
 # 設置畫面分辨率
