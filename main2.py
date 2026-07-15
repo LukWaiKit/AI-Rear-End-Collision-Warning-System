@@ -14,7 +14,7 @@ pTime = 0
 
 # 初始化音頻播放器
 pygame.mixer.init()
-pygame.mixer.music.load("C:\yolov8\ccc.mp3")  # 替換為你的音頻文件路徑
+pygame.mixer.music.load("C:\yolov8\warn.mp3")  # 替換為你的音頻文件路徑
 
 # 加載 YOLO 模型
 try:
